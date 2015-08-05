@@ -63,4 +63,4 @@ de:
   FORGOT_USERNAME_DOES_NOT_EXIST: Der Benutzer mit dem Benutzernamen <b>%s</b> existiert nicht
   FORGOT_EMAIL_NOT_CONFIGURED: Passwort kann nicht zurückgesetzt werden. Diese Website wurde nicht konfiguriert um E-Mails zu versenden
   FORGOT_EMAIL_SUBJECT: %s forderte das zurücksetzen des Passwortes an
-  FORGOT_EMAIL_BODY: <h1>Passwort zurücksetzen</h1><p>Hallo %1$s,</p><p>Eine Anfrage wurde von gestellt von <b>%4$s</b> um das Passwort zurückzusetzen.</p><p><br /><a href="%2$s" class="btn-primary">Bitte anklicken um das Passwort zurückzusetzen</a><br /><br /></p><p>Alternativ kannst du auch den Link kopieren und in der Adressleiste Deines Browsers einfügen:</p> <p>%2$s</p><p><br />Grüße,<br /><br />%3$s</p>
+  FORGOT_EMAIL_BODY: <h1>Passwort zurücksetzen</h1><p>Hallo %1$s,</p><p>eine Anfrage wurde von <b>%4$s</b> gestellt von um das Passwort zurückzusetzen.</p><p><br /><a href="%2$s" class="btn-primary">Bitte anklicken um das Passwort zurückzusetzen</a><br /><br /></p><p>Alternativ kannst du auch den Link kopieren und in der Adressleiste Deines Browsers einfügen:</p> <p>%2$s</p><p><br />Grüße,<br /><br />%3$s</p>
